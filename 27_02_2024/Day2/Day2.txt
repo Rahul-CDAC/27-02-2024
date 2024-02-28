@@ -1,0 +1,164 @@
+java develop 1995 by james gosling
+sun micro
+
+green....
+
+oak....
+
+
+java 1.0
+.....latest version ....
+21.0.2
+
+syllbus .... 1.8
+
+WORA ---- write once run anywhere
+
+==========================================
+
+importance ----- used everywhere...
+
+core java ---- adv.Java (Structs , Spring,  Spring Boots)
+
+J2SE
+J2EE
+J2ME
+
+=========================================
+class 
+1. variable 
+2. methods
+3. constructors
+4. instance block
+5. static block
+
+=======================
+
+tokens--- 
+ex. 
+class
+public 
+{
+system
+}
+;
+================
+identifiers 
+ex.
+ Test
+a
+main
+
+rules :
+int abc = 10; -- valid 
+int _abc = 10; -- valid
+int 2abc = 10; -- not valid
+int $abc = 10; -- valid
+int @abc = 10; -- not valid 
+
+
+Java is a case sensitive lang. 
+
+=========================
+keywords: ~50 
+class , public , static ....etc 
+ 
+===========================
+
+class name ---  shld always start with cap letter
+
+method name --- small letter 
+
+additionOfTwoNumber() -- camel casing
+
+========================================
+
+No duplicate var. are allowed.
+
+
+int PUBLIC = 200;  
+
+int PUBLIC;
+PUBLIC=100;
+=================
+
+
+main() is the entry point for your program. 
+signature : public static void main(String args[]) 
+
+=====================
+
+Data types :
+          size  - default values
+byte   -  1     -  0
+short  -  2     -  0
+int    -  4     -  0
+long   -  8     -  0
+float  -  4     -  0.0
+double -  8     -  0.0
+char   -  2     -  space
+boolean - NA    -  flase
+
+Primitive Data Type 
+
+String
+
+Non-Primitive data types - user defined datatypes -
+
+Objects---- user defined datatypes.
+
+
+constructors -  defined same name as class name.
+used for initilise the intance var of a class.
+========================================
+int a=10;
+
+className obj = new className();   // hashcode  -- classname@hexadecimal
+ 
+test - test
+===============================
+int a=10;
+int - datatype
+a - variable
+= assignemnt operator
+10 constant value / int literals
+
+
+========
+ex.
+class Student 
+String name 
+int id 
+long mobNo 
+String email
+
+details(){}
+marksCal()
+attendance(){}
+
+
+Student stdObj = new Student();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

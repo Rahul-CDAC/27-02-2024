@@ -1,0 +1,10 @@
+class Ifelse{
+      public static void main(String args[]){
+      int a=100;
+      if(a>50){
+        System.out.println("number is greater than 50");}
+      else{
+        System.out.println("number is less than 50");
+ }
+}
+}
